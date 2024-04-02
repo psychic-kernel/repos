@@ -1,0 +1,4 @@
+{'sha256', 'sha384', 'sha224', 'sha512', 'sha1', 'md5'}
+import hashlib 
+encode() : Converts the string into bytes to be acceptable by hash function.
+hexdigest() : Returns the encoded data in hexadecimal format.
