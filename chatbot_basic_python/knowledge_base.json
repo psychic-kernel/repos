@@ -1,0 +1,20 @@
+{
+  "questions": [
+    {
+      "question": "Hi there.",
+      "answer": "Hello!"
+    },
+    {
+      "question": "Hi",
+      "answer": "Hello!"
+    },
+    {
+      "question": "Can you do math?",
+      "answer": "Not yet but you can certainly program me to!"
+    },
+    {
+      "question": "What is your purpose?",
+      "answer": "I exist to serve your needs as a chatbot."
+    }
+  ]
+}
