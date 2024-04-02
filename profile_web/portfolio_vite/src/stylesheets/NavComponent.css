@@ -1,0 +1,28 @@
+
+.nav-bar {
+    
+    height: 170px;
+    background-color: rgb(71, 59, 59);
+}
+.nav-items-container {
+    position: relative;
+    right: 1em;
+    bottom: 3em;
+    width: 9em; 
+    
+}
+
+
+
+.nav-item {
+    background-color: var(--bg-nav);
+    width: 9em;
+    
+}
+.navlink {
+    margin-left: 2em;
+    color: white;
+}
+.navlink:hover {
+    color: rgb(201, 80, 80);
+}

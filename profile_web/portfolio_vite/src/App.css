@@ -1,0 +1,10 @@
+
+/* .nav-toggler{
+  display: none;
+} */
+
+html {
+  position: relative;
+  width: 100%;
+  background-color: var(--bg-color);
+}

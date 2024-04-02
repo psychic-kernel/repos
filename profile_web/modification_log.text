@@ -1,0 +1,11 @@
+Title: PORTFOLIO
+Author: Michael Alexander Robins
+Date Created: 1/20/2024
+
+-- MOD LOG --
+DATE:     VERSION:          DESCXRIPTION:
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+- 1/20/24 - Version: 0.01 -  installed vite with react/react-router/react-router-dom/reactstrap | import bootstrap stylesheet | Set up router and pages | created NavComponent.tsx, ProjectList.tsx, ProfileBadge.tsx | Created 5 new pages: AcademicsPg, BioPg, MainPg and NoPg as a 404 redirect. | New directory added 'stylesheets' under 'src' to use as css modules reducing separation of concern. | Pulled in profile image to import into ProfileBadge component. | Initiated a new git repository, connected to remote, added, commited, and pushed to main branch. 
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+

@@ -1,0 +1,16 @@
+Elements:
+    profilePicture
+    description
+    
+    projectLinks 
+    SearchBar
+
+
+    pages
+        - MainPg
+        - BioPg
+        - ProjectsPg
+        - AcademicsPg
+
+    
+    

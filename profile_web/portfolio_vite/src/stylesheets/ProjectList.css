@@ -1,0 +1,26 @@
+
+.project-list {
+    position: relative;
+    display: flex;
+    flex-direction: row;
+    list-style-type: none;
+    flex-wrap: wrap;
+    width: 100%;
+    margin-left: 5%;
+    margin-right: auto;
+}
+.project-list > li {
+    padding: 15px;
+    
+}
+/* .project-list > li > a > img:hover {
+    
+    
+} */
+.project-list> li > a > img {
+    border-radius: 10px;
+}
+.active:hover {
+    -webkit-box-shadow: -1px 3px 14px 3px #000000; 
+    box-shadow: -1px 3px 14px 3px #000000;
+}

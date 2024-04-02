@@ -1,0 +1,22 @@
+
+.bs-dropdown-menu {
+    background-color: var(--bg-nav);
+}
+.dropdown-item-form-container:hover {
+    background-color: var(--bg-nav);
+}
+
+
+.bs-card {
+    border-radius: 50%;
+    align-items: left;
+    background-color: transparent;
+    right: 2em;
+    bottom: 1.9em;
+    margin-top: 5px;
+    margin-left: 15px;
+}
+.card-title {
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: rgb(219, 137, 137);
+}

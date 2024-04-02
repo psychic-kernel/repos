@@ -1,0 +1,18 @@
+:root {
+  --bg-color: rgb(124, 210, 143);
+  --linear-gradient: linear-gradient(90deg, rgba(22,37,50,1)0%, rgba(27,53,59,1) 99%);
+  --text-color: rgb(193, 201, 197);
+
+  --text-hover-color: rgb(255, 64, 0);
+
+  --bg-nav: rgb(71, 59, 59);
+}
+
+#root {
+  background-color: var(--bg-color);
+  color: white;
+  background-color: rgb(42, 187, 160);
+  
+}
+
+
