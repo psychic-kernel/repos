@@ -1,0 +1,33 @@
+
+body {
+    background-color: rgb(109, 189, 156);
+}
+
+button {
+    border: none;
+    background-color: rgb(48, 182, 236);
+    border-radius: 10%;
+    box-shadow: 1px 1px 1px;
+}
+button:hover {
+    background-color: rgb(31, 109, 235);
+    cursor: pointer;
+    
+}
+ul li {
+   display: flex;
+   position: relative;
+   flex-wrap:wrap;
+   background-color: rgb(192, 241, 228); 
+}
+
+ul>li>a{
+    display: inherit;
+    margin-left: 25%;
+    width: 55%;
+}
+.checkbox {
+    width: 15px;
+    height: 15px;
+}
+
