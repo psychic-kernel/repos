@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34511.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PortfolioMobile1", "PortfolioMobile1.csproj", "{B98A527D-9436-4AE9-A949-3098B64E2206}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B98A527D-9436-4AE9-A949-3098B64E2206}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B98A527D-9436-4AE9-A949-3098B64E2206}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B98A527D-9436-4AE9-A949-3098B64E2206}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{B98A527D-9436-4AE9-A949-3098B64E2206}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B98A527D-9436-4AE9-A949-3098B64E2206}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B98A527D-9436-4AE9-A949-3098B64E2206}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8A28D4B2-E1F4-496F-82A0-765E86BCD326}
+	EndGlobalSection
+EndGlobal
